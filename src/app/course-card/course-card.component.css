@@ -1,0 +1,29 @@
+.course-card.advanced {
+    background-color: rgb(219, 239, 115);
+    border: 3px solid gold;
+}
+
+.course-card.beginner {
+    background-color: rgb(143, 250, 116);
+    border: 3px solid rgb(31, 93, 15);
+}
+
+.course-card.intermediate {
+    background-color: rgb(148, 172, 250);
+    border: 3px solid rgb(12, 20, 91);
+}
+
+.lessons{
+    font-size: 16px;
+    color: red;
+    margin: 3px;
+}
+.category {
+    font-size: 20px;
+    font-weight: bold;
+    float:left;
+    color: blue;
+}
+.button{
+    background-color:red;
+}
